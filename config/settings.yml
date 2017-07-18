@@ -1,0 +1,3 @@
+plugins:
+  welcome_user_enabled:
+    default: false

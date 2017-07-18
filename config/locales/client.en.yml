@@ -1,0 +1,47 @@
+en:
+  js:
+    welcome:
+      title: "Welcome to Pavilion"
+      user:
+        tip: "Note"
+        intro:
+          label: "Introduction"
+          title: "Welcome!"
+          body: "We're going to go through the ways you can use Pavilion."
+          tip: "This will take about 1 minute."
+        talk:
+          label: "Talk"
+          title: "You can connect with people who live in your city or town."
+          body: "<ul>
+                  <li><i class='fa fa-question-circle'></i><span>Ask for help.</span></li>
+                  <li><i class='fa fa-calendar'></i><span>Go to an event.</span></li>
+                  <li><i class='fa fa-group'></i><span>Join a group.</span></li>
+                </ul>"
+          tip: "We don't sell your data. You choose how much you want to share."
+        share:
+          label: "Share"
+          title: "You can use your skills and experience to support your community."
+          body: "<ul>
+                  <li><i class='fa fa-wrench'></i><span>Build an app.</span></li>
+                  <li><i class='fa fa-question-circle'></i><span>Answer questions.</span></li>
+                  <li><i class='fa fa-star'></i><span>Review services.</span></li>
+                </ul>"
+          tip: "If you've dealt with government or law before, others will find your experience valuable."
+        work:
+          label: "Work"
+          title: "You can work with your government and civic organisations."
+          body: "<ul>
+                  <li><i class='fa fa-comment'></i><span>Give useful feedback.</span></li>
+                  <li><i class='fa fa-file-text'></i><span>Help make policies and budgets.</span></li>
+                  <li><i class='fa fa-truck'></i><span>Help run programs.</span></li>
+                </ul>"
+          tip: "We aren't political. We are about building civil society."
+        run:
+          label: "Run"
+          title: "You can even help to build and run Pavilion itself."
+          body: "<ul>
+                  <li><i class='fa fa-question-circle'></i><span>Help decide what to build.</span></li>
+                  <li><i class='fa fa-wrench'></i><span>Help build it.</span></li>
+                  <li><i class='fa fa-flag'></i><span>Help run it.</span></li>
+                </ul>"
+          tip: "We plan to distribute funds to our contributors. Your time is valuable."
